@@ -1,0 +1,29 @@
+html{
+    font-family: sans-serif;
+}
+
+#pokemon{
+    border: 3px solid black;
+    display: flex;
+    padding: 20px;
+    background-color: rgb(94, 190, 158);
+    margin-left: 450px;
+    margin-right: 430px;
+}
+
+.pkm{
+    margin-right: 50px;
+}
+
+#button{
+    padding: 15px 100px;
+    margin: 10px 4px;
+    cursor: pointer;
+    text-transform: uppercase;
+    text-align: center;
+    position: relative;
+}
+
+#button:hover {
+    opacity: 0.75;
+  }
