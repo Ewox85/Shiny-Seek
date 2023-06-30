@@ -883,7 +883,7 @@ let pkm = [
     "regieleki",
     "regidrago",
     "cerbyllin",
-    "hachécateur",
+    "Hachécateur",
     "ursaking",
     "paragruelf",
     "paragruelm",
